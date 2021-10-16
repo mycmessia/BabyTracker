@@ -309,7 +309,6 @@ void AddAction()
 
 void QueryAction()
 {
-
 }
 
 void CreateTodaysFile()
