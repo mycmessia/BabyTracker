@@ -1,0 +1,8 @@
+﻿  BabyTracker.cpp
+C:\Code Projects\BabyTracker\BabyTracker\BabyTracker\BabyTracker.cpp(34,31): warning C4018: '<': signed/unsigned mismatch
+C:\Code Projects\BabyTracker\BabyTracker\BabyTracker\BabyTracker.cpp(49,31): warning C4018: '<': signed/unsigned mismatch
+C:\Code Projects\BabyTracker\BabyTracker\BabyTracker\BabyTracker.cpp(96,31): warning C4018: '<': signed/unsigned mismatch
+C:\Code Projects\BabyTracker\BabyTracker\BabyTracker\BabyTracker.cpp(106,31): warning C4018: '<': signed/unsigned mismatch
+C:\Code Projects\BabyTracker\BabyTracker\BabyTracker\BabyTracker.cpp(325,31): warning C4018: '<': signed/unsigned mismatch
+C:\Code Projects\BabyTracker\BabyTracker\BabyTracker\BabyTracker.cpp(327,19): warning C4018: '<': signed/unsigned mismatch
+  BabyTracker.vcxproj -> C:\Code Projects\BabyTracker\BabyTracker\Debug\BabyTracker.exe
