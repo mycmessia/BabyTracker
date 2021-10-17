@@ -7,6 +7,7 @@ Currently it supports adding
 3. Bottle Feed Sessions
 4. Nappy Change Sessions
 5. Boild Water Sessions
+6. Custom Sessions
 
 I'm in the process of adding query features so it's easy to check e.g. how many times we have fed the baby today.
 
